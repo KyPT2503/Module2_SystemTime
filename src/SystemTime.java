@@ -113,5 +113,14 @@ public class SystemTime
             System.out.println("Obese!");
         }
         /*-------------------------------------------*/
+
+        /**/
+        String name=scanner.nextLine();
+        System.out.println("Hello "+name);
+        /*-------------------------------------------*/
+
+        /**/
+
+        /*-------------------------------------------*/
     }
 }
