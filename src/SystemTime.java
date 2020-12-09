@@ -120,7 +120,8 @@ public class SystemTime
         /*-------------------------------------------*/
 
         /**/
-
+        double dolla=scanner.nextDouble();
+        System.out.println(dolla*23000);
         /*-------------------------------------------*/
     }
 }
